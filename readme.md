@@ -1,4 +1,4 @@
-# [broccoli](https://github.com/joliss/broccoli)-es6-transpiler [![Build Status](https://travis-ci.org/sindresorhus/broccoli-es6-transpiler.png?branch=master)](https://travis-ci.org/sindresorhus/broccoli-es6-transpiler)
+# [broccoli](https://github.com/joliss/broccoli)-es6-transpiler [![Build Status](https://travis-ci.org/sindresorhus/broccoli-es6-transpiler.svg?branch=master)](https://travis-ci.org/sindresorhus/broccoli-es6-transpiler)
 
 > Transpile ES6 to ES5 with [es6-transpiler](https://github.com/termi/es6-transpiler)
 
@@ -7,8 +7,8 @@
 
 ## Install
 
-```
-npm install --save broccoli-es6-transpiler
+```bash
+$ npm install --save broccoli-es6-transpiler
 ```
 
 
@@ -29,4 +29,4 @@ Use the es6-transpiler [options](https://github.com/termi/es6-transpiler#options
 
 ## License
 
-MIT © [Sindre Sorhus](http://sindresorhus.com)
+[MIT](http://opensource.org/licenses/MIT) © [Sindre Sorhus](http://sindresorhus.com)
