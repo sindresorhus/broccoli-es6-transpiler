@@ -39,12 +39,13 @@
     "compiler"
   ],
   "dependencies": {
-    "broccoli-filter": "^0.1.0",
-    "es6-transpiler": "^0.7.0",
-    "chalk": "^0.4.0"
+    "broccoli-filter": "^0.1.6",
+    "chalk": "^0.5.1",
+    "es6-transpiler": "^0.7.14"
   },
   "devDependencies": {
-    "broccoli": "^0.7.2",
+    "broccoli": "^0.12.3",
+    "broccoli-cli": "0.0.1",
     "mocha": "*",
     "rimraf": "^2.2.6"
   }
