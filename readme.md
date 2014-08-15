@@ -12,7 +12,7 @@ $ npm install --save broccoli-es6-transpiler
 ```
 
 
-## Example
+## Usage
 
 ```js
 var es6transpiler = require('broccoli-es6-transpiler');
