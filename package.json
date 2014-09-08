@@ -41,7 +41,7 @@
   "dependencies": {
     "broccoli-filter": "^0.1.6",
     "chalk": "^0.5.1",
-    "es6-transpiler": "^0.7.14"
+    "es6-transpiler": "^0.7.16"
   },
   "devDependencies": {
     "broccoli": "^0.12.3",
