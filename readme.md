@@ -7,8 +7,8 @@
 
 ## Install
 
-```sh
-$ npm install --save broccoli-es6-transpiler
+```
+$ npm install --save-dev broccoli-es6-transpiler
 ```
 
 
@@ -22,7 +22,7 @@ tree = es6transpiler(tree, options);
 
 ## API
 
-### es6transpiler(tree, options)
+### es6transpiler(tree, [options])
 
 Use the es6-transpiler [options](https://github.com/termi/es6-transpiler#options), except for `filename`, `src`, `outputToConsole`, `outputFilename`.
 
