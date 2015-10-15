@@ -8,6 +8,8 @@ function Es6TranspilerFilter(inputTree, options) {
 		return new Es6TranspilerFilter(inputTree, options);
 	}
 
+	Filter.call(this, inputTree);
+
 	this.inputTree = inputTree;
 	this.options = options || {};
 
