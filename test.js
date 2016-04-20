@@ -7,7 +7,7 @@ afterEach(function () {
 	rimraf.sync('temp');
 });
 
-it('should transpile ES6 to ES5', function () {
+it('should transpile ES2015 to ES5', function () {
 	assert.equal(
 		fs.readFileSync('temp/fixture.js', 'utf8'),
 		fs.readFileSync('fixture/expected.js', 'utf8')
