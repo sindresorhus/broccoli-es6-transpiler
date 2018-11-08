@@ -1,3 +1,9 @@
+# Deprecated
+
+The `es6-transpiler` project is no longer maintained.
+
+---
+
 # [broccoli](https://github.com/joliss/broccoli)-es6-transpiler [![Build Status](https://travis-ci.org/sindresorhus/broccoli-es6-transpiler.svg?branch=master)](https://travis-ci.org/sindresorhus/broccoli-es6-transpiler)
 
 > Transpile ES2015 to ES5 with [es6-transpiler](https://github.com/termi/es6-transpiler)
